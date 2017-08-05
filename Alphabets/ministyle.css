@@ -1,0 +1,11 @@
+body{background:url('../image/ice-blue.jpg') fixed; color:green; margin-left:3%; margin-right:2%;}
+th{font-family:courier;  font-weight:bold;}
+td{font-family:courier; font-weight: bold; }
+.lgtxt{font-size:29pt; color:darkblue; font-weight:bold;}
+.line{color:orange;font-size:25pt;font-weight:bold;}
+.hd{color:blue;font-size:25pt;}
+.hid{visibility:hidden;}
+.shw{visibility:visible;}
+.btn{border-radius:10px; background:#162147; color:#d4e9f5; font-size:18pt;}
+.acbtn{border-radius:10px; background:#c46d00; color:#dadada; font-size:18pt;}
+.contnt{font-size:15pt; font-family:courier; }
